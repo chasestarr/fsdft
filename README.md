@@ -1,6 +1,6 @@
 ## FSDFT (File system depth-first traversal)
 
-[Link to GoDocs](https://godoc.org/github.com/chasestarr/fsdft)
+[![GoDoc](https://godoc.org/github.com/chasestarr/fsdft?status.svg)](https://godoc.org/github.com/chasestarr/fsdft)
 
 ```go
 import (
